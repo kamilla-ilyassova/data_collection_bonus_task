@@ -55,7 +55,8 @@ At the end of the cleaning stage we get the following data in cleaned_data.csv f
   "team": "germany"
 }
 ```
-Here is additional messages that appeared in the VS Code terminal:
+**Here is additional messages that appeared in the VS Code terminal:**
+
 <img width="1018" height="222" alt="2025-12-11_01-38-41" src="https://github.com/user-attachments/assets/a335044c-6f54-4190-97c3-0c623e712007" />
 <img width="1016" height="220" alt="2025-12-11_01-39-10" src="https://github.com/user-attachments/assets/993e70aa-5637-4a74-b4a9-a3123081e4c5" />
 
