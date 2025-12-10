@@ -1,0 +1,6 @@
+[2025-12-10 19:00:27,782] INFO [Broker id=1] Transitioning 1 partition(s) to local leaders. (state.change.logger)
+[2025-12-10 19:00:27,795] INFO [Broker id=1] Creating new partition bonus_23B141041-0 with topic id 1KB5xaeWQh-QpHkXO9q-Dw. (state.change.logger)
+[2025-12-10 19:00:27,829] INFO [Broker id=1] Leader bonus_23B141041-0 with topic id Some(1KB5xaeWQh-QpHkXO9q-Dw) starts at leader epoch 0 from offset 0 with partition epoch 0, high watermark 0, ISR [1], adding replicas [] and removing replicas [] . Previous leader None and previous leader epoch was -1. (state.change.logger)
+[2025-12-10 19:04:16,640] INFO [Broker id=1] Transitioning 1 partition(s) to local leaders. (state.change.logger)
+[2025-12-10 19:04:16,641] INFO [Broker id=1] Creating new partition bonus_23B151041-0 with topic id eqt3LTwDRXGycvdg6kfixQ. (state.change.logger)
+[2025-12-10 19:04:16,646] INFO [Broker id=1] Leader bonus_23B151041-0 with topic id Some(eqt3LTwDRXGycvdg6kfixQ) starts at leader epoch 0 from offset 0 with partition epoch 0, high watermark 0, ISR [1], adding replicas [] and removing replicas [] . Previous leader None and previous leader epoch was -1. (state.change.logger)
