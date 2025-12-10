@@ -3,7 +3,7 @@
 ## Student
 **ID:** 23B151041  
 **Name:** Kamilla Ilyassova  
-**GitHub link:** https://github.com/kamilla-ilyassova/data_collection_bonus_task/tree/main
+**GitHub link:** [https://github.com/kamilla-ilyassova/data_collection_bonus_task/tree/main](https://github.com/kamilla-ilyassova/data_collection_bonus_task/tree/main)
 
 ---
 
