@@ -35,6 +35,7 @@ The dataset contains all-time top goalscorers in FIFA World Cups, scraped from [
 5. Dropped rows with missing values.  
 6. Removed duplicate rows.  
 7. Reordered columns as `rank`, `player`, `goals`, `team`.
+
 At the end of the cleaning stage we get the following data in cleaned_data.csv file.
 <img width="495" height="484" alt="2025-12-11_01-39-36" src="https://github.com/user-attachments/assets/1638c5dd-498d-4e07-b3ec-53c6f4325e86" />
 <img width="720" height="75" alt="2025-12-11_01-40-05" src="https://github.com/user-attachments/assets/76c67285-87fc-4c5c-b085-6ec6f95d5d34" />
